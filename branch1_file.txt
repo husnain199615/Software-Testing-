@@ -1,1 +1,2 @@
 I am branch1 file
+going to conflict with branch on same line 
