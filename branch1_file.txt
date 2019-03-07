@@ -1,2 +1,6 @@
 I am branch1 file
+<<<<<<< HEAD
 going to conflict with branch on same line 
+=======
+I am conflicting with master
+>>>>>>> branch1
